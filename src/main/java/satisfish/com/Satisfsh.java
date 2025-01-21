@@ -12,6 +12,7 @@ public class Satisfsh implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		Satisfsh.LOGGER.info("Initializing mod: " + Satisfsh.MOD_ID);
 		ModItems.registerModItems();
 	}
 }
