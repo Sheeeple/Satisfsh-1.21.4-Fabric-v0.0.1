@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "satisfsh:item/uwu"
+    "layer0": "satisfish:item/uwu"
   }
 }
