@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Sheeeple/Satisfsh-1.21.4-Fabric-v0.0.1"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/satisfsh/icon.png",
@@ -33,8 +33,8 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.16.10",
-		"minecraft": "~1.21.4",
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
 	},
